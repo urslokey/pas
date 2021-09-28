@@ -8594,15 +8594,15 @@ h3.fp-h.margin60 {
 }
 .product-category .hover-block-element.icon span.title,
 .block-products_for .hover-block-element.icon span.title {
-    background: url(../../images/automobile-icon.png) no-repeat center 5px;
+    background: url(../../images/car_116x124.png) no-repeat center 5px;
 }
 .product-category .hover-block-element.icon_aviation span.title,
 .block-products_for .hover-block-element.icon_aviation span.title {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .product-category .hover-block-element.icon_aviation.hover span.title,
 .block-products_for .hover-block-element.icon_aviation.hover span.title {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .product-category .hover-block-element.icon_defence span.title,
 .block-products_for .hover-block-element.icon_defence span.title {
@@ -8628,6 +8628,19 @@ h3.fp-h.margin60 {
 .block-products_for .hover-block-element.icon_aluminum.hover span.title {
     background-image: url(../../images/icon_aviation_blue.png);
 }
+
+.product-category .hover-block-element.icon_automobile span.title,
+.block-products_for .hover-block-element.icon_automobile span.title {
+    background-image: url(../../images/car_116x124.png);
+}
+.product-category .hover-block-element.icon_automobile.hover span.title,
+.block-products_for .hover-block-element.icon_automobile.hover span.title {
+    background-image: url(../../images/car_116x124.png);
+}
+
+
+
+
 .product-category .hover-block-element.icon_energy span.title,
 .block-products_for .hover-block-element.icon_energy span.title {
     background-image: url(../../images/faucents-icon.png);
@@ -8777,11 +8790,11 @@ h3.fp-h.margin60 {
 }
 .customer-cases .hover-block-element.icon_aviation span.title,
 .news-latest .hover-block-element.icon_aviation span.title {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .customer-cases .hover-block-element.icon_defence span.title,
 .news-latest .hover-block-element.icon_defence span.title {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 
 .customer-cases .hover-block-element.icon_electronic span.title,
@@ -8793,6 +8806,10 @@ h3.fp-h.margin60 {
 .customer-cases .hover-block-element.icon_aluminum span.title,
 .news-latest .hover-block-element.icon_aluminum span.title {
     background-image: url(../../images/icon_aluminum_white.png);
+}
+.customer-cases .hover-block-element.icon_automobile span.title,
+.news-latest .hover-block-element.icon_automobile span.title {
+    background-image: url(../../images/car_116x124.png);
 }
 .customer-cases .hover-block-element.icon_energy span.title,
 .news-latest .hover-block-element.icon_energy span.title {
@@ -10171,7 +10188,7 @@ p.location {
     display: none;
 }
 .google-maps-header .maps-container .filter_control li a.icon.icon_aviation {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .google-maps-header .maps-container .filter_control li a.icon.icon_defence {
     background-image: url(../../images/pcb-icon.png);
@@ -10180,7 +10197,9 @@ p.location {
     background-image: url(../../images/electronic-icon.png);
 }
 
-
+.google-maps-header .maps-container .filter_control li a.icon.icon_automobile {
+    background-image: url(../../images/car_116x124.png);
+}
 .google-maps-header .maps-container .filter_control li a.icon.icon_aluminum {
     background-image: url(../../images/icon_aviation_blue.png);
 }
@@ -10419,10 +10438,10 @@ p.location {
     right: 0;
 }
 .block-productlist-img-top .img .category_img .category_icon.icon-aviation {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .block-productlist-img-top .img .category_img .category_icon.icon-defence {
-    background-image: url(../../images/automobile-icon.png);
+    background-image: url(../../images/car_116x124.png);
 }
 .block-productlist-img-top .img .category_img .category_icon.icon-aluminum {
     background-image: url(../../images/icon_aluminum_white.png);
